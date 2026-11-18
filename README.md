@@ -32,7 +32,7 @@ brute-force-attack-detection/
 ├── monitor.py
 ├── users.py
 ├── login.py
-├── gyi.py
+├── gui.py
 └── README.md
 ```
 
